@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Simulador-de-Agendamento-de-Pagamento/assets/98216100/6099fd08-c3fb-4d39-bebe-ca01bbb037d1)
+
 # Simulador de Agendamento de Pagamento 💸
 
 ## 📚 Introdução
